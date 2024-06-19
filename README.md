@@ -37,11 +37,11 @@ Desenvolva um algoritmo que solicite ao usuário três notas (de 0.0 a 10.0) de 
 ### Questão 04
 Desenvolva um algoritmo que receba a nota final de um aluno (de 0.0 a 10.0) e apresente com base no formato de conceito, nova fórmula de avaliação na que está sendo implantada na educação. Segue abaixo a tabela. Além disso, você deve validar se a nota é inválida (menores que 0 e maiores que 10). Caso aconteça, você deve informar o usuário;
 
-- Nota >= 90: A
-- Nota >= 80: B
-- Nota >= 70: C
-- Nota >= 60: D
-- Nota < 60: F
+- Nota >= 9.0: A
+- Nota >= 8.0: B
+- Nota >= 7.0: C
+- Nota >= 6.0: D
+- Nota < 6.0: F
 
 ---
 
